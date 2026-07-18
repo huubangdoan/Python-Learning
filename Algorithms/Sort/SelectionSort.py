@@ -9,5 +9,6 @@ def selectionSort(arr):
         arr[i], arr[minIndex] = arr[minIndex], arr[i]
         print(arr)
 if __name__=="__main__":
-    arr=np.array((3,2,1,4,0))
+    arr=np.array((72,4
+                  ,12,53,15,2,8,16,40,21,7,87,35))
     selectionSort(arr)
