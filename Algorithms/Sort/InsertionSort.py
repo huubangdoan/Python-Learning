@@ -11,5 +11,5 @@ def insertionSort(arr):
         arr[j+1]=key
         print(arr)            
 if __name__=="__main__":
-    arr=np.array((110,10,150,20))
+    arr=np.array((110,0,150,20,2))
     insertionSort(arr)
