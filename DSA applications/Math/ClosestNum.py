@@ -6,4 +6,4 @@ def closestNum(m, n):
     else:
         return lb
 if __name__=="__main__":
-    print(closestNum(17,6))
+    print(closestNum(13,6))
